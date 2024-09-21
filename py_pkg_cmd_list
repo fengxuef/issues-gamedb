@@ -1,1 +1,2 @@
 pip install jupyterlab
+pip install beautifulsoup4 html5lib
